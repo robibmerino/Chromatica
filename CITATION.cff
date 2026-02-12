@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: "Chromatica"
+message: "If you use Chromatica in academic research, teaching, or publications, please cite it as follows."
+type: software
+authors:
+  - family-names: "Barranco Merino"
+    given-names: "Robi"
+    affiliation: "Laboratorio de Neuroarquitectura, Instituto Universitario de Investigación Tecnológica Centrada en las Personas (Human-Tech), Universitat Politècnica de València, 46022 Valencia, España. Departamento de Expresión Gráfica, Escuela de Arquitectura. Universitat Politècnica de València (UPV)"
+    orcid: "https://orcid.org/0009-0005-8921-4316"
+    email: "rbarmer@doctor.upv.es"
+version: "1.0.0"
+date-released: 2026-02-12
+license: "Chromatica License v1.1 (Non-Commercial, Share-Alike)"
+repository-code: "https://github.com/robibmerino/Chromatica"
+abstract: >
+  Chromatica is a web-based methodological system for the guided and iterative construction 
+  of color palettes in branding education. It integrates inspirational modules, 
+  comparative archetype and form selection systems, contextual application mockups, 
+  hybrid evidence-based review mechanisms, and configurable export structures 
+  for academic and educational use.
